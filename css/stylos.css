@@ -4,3 +4,13 @@
     background-repeat: no-repeat;
     background-position: center center;
 }
+
+@media screen and (min-width:992px){
+   .encabezado {
+        background-image: url("../imagen/landscape.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center center;
+       
+   }
+} 
